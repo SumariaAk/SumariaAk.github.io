@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "homepageakash/static/css/main.436ae671.css",
+    "main.js": "homepageakash/static/js/main.580d2a63.js",
+    "static/media/akashlinkedin.jpg": "homepageakash/static/media/akashlinkedin.3cbcaaad46228d2d9c60.jpg",
+    "static/media/bphc.png": "homepageakash/static/media/bphc.9b50175f185192070520.png",
+    "static/media/capgemini.png": "homepageakash/static/media/capgemini.9c25829d6b11ff3474c6.png",
+    "index.html": "homepageakash/index.html",
+    "main.436ae671.css.map": "homepageakash/static/css/main.436ae671.css.map",
+    "main.580d2a63.js.map": "homepageakash/static/js/main.580d2a63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.436ae671.css",
+    "static/js/main.580d2a63.js"
+  ]
+}
